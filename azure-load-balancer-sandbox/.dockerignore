@@ -1,0 +1,14 @@
+.git/
+.github/
+.vscode/
+.idea/
+
+Dockerfile
+.dockerignore
+
+README.md
+LICENSE
+
+*.log
+.env
+.env.*

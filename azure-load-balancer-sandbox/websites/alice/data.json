@@ -1,0 +1,69 @@
+{
+  "profile": {
+    "name": "Maya Ellis",
+    "role": "Independent product designer & creative director",
+    "location": "London / working globally",
+    "availability": "Available for select 2025 projects",
+    "email": "maya@mayaellis.design",
+    "intro": "I shape digital products with a human pulse—clarifying complex ideas into experiences people return to.",
+    "about": "For the past eight years, I've partnered with founders and thoughtful teams to build brands and product experiences from the inside out. My work lives where strategy, systems, and a touch of surprise meet.",
+    "portrait": "ME",
+    "links": [
+      { "label": "LinkedIn", "url": "https://linkedin.com" },
+      { "label": "Are.na", "url": "https://are.na" },
+      { "label": "Instagram", "url": "https://instagram.com" }
+    ]
+  },
+  "experience": [
+    {
+      "period": "2022—Now",
+      "company": "Independent",
+      "title": "Product designer & creative director"
+    },
+    {
+      "period": "2019—2022",
+      "company": "Northstar Studio",
+      "title": "Senior product designer"
+    },
+    {
+      "period": "2017—2019",
+      "company": "Paper & Pixel",
+      "title": "Digital designer"
+    }
+  ],
+  "projects": [
+    {
+      "number": "01",
+      "title": "Sonder",
+      "type": "Digital wellbeing platform",
+      "summary": "A calmer way to check in, reset and make room for yourself.",
+      "year": "2024",
+      "palette": "violet",
+      "tags": ["Strategy", "Product", "Identity"]
+    },
+    {
+      "number": "02",
+      "title": "Luma",
+      "type": "A new kind of investment companion",
+      "summary": "Giving first-time investors the context to move with confidence.",
+      "year": "2023",
+      "palette": "gold",
+      "tags": ["Research", "UX/UI", "Design system"]
+    },
+    {
+      "number": "03",
+      "title": "Field Notes",
+      "type": "Independent editorial journal",
+      "summary": "A living collection of conversations about making better things.",
+      "year": "2023",
+      "palette": "blue",
+      "tags": ["Editorial", "Art direction", "Web"]
+    }
+  ],
+  "capabilities": [
+    "Product strategy",
+    "UX & interaction",
+    "Visual systems",
+    "Creative direction"
+  ]
+}
